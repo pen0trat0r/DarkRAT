@@ -1,3 +1,9 @@
+HOW TO BUY!
+
+DM ME ON TELEGRAM GROUP : https://t.me/+5pLgHJih0vplMDRk
+
+info
+
 Important!
  
 YOU WILL NEED TO PORTFORWARD YOU CAN USE : https://portmap.io/ TO PORTFORWARD AND HERE IS A TUTORIAL : https://www.youtube.com/watch?v=95x7E5tBkWY
