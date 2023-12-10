@@ -13,3 +13,9 @@ help cmd:
 list cmd:
 
 ![image](https://github.com/notcurrygoul/DarkRAT/assets/151952683/79262009-fddd-4667-ac1d-29817383320e)
+
+password cmd:
+
+![image](https://github.com/notcurrygoul/DarkRAT/assets/151952683/6f96cba1-5308-4d0b-8882-8b327c4d8cd2)
+
+![image](https://github.com/notcurrygoul/DarkRAT/assets/151952683/9e32eed2-ce02-4062-99c5-6a8abab9fd0b)
