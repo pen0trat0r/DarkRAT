@@ -1,3 +1,13 @@
+DARKRATv0.1
+Functionality Overview:
+Screenshot: The RAT allows discreet capture of the target system's screen, providing real-time visual information without the user's knowledge.
+File Download: This feature enables the retrieval of files from a specified server to the compromised system, allowing for the discreet transfer of data.
+File Upload: Conversely, the RAT allows the uploading of files from the infected system to a remote server, facilitating data exfiltration.
+Logoff and Shutdown: This feature enables the operator to initiate a logoff or shutdown sequence on the target system, creating disruptions or hindering user activity.
+Password Recovery: The RAT incorporates mechanisms to capture and recover stored passwords on the compromised system, ensuring access to sensitive information.
+Set Wallpaper: This function allows for manipulations of the target system's visual interface, potentially serving as a means of subtle communication or psychological manipulation.
+Shell Option: The RAT provides a command shell interface, granting the operator direct control over the system's command line, enabling the execution of various commands.
+
 HOW TO BUY!
 
 DM ME ON TELEGRAM GROUP : https://t.me/+5pLgHJih0vplMDRk
