@@ -1,4 +1,5 @@
 DARKRATv0.1
+
 Functionality Overview:
 Screenshot: The RAT allows discreet capture of the target system's screen, providing real-time visual information without the user's knowledge.
 File Download: This feature enables the retrieval of files from a specified server to the compromised system, allowing for the discreet transfer of data.
