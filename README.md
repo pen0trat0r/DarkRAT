@@ -1,3 +1,7 @@
+How it works:
+![image](https://github.com/notcurrygoul/DarkRAT/assets/151952683/03dfadf8-1b2a-4760-af8a-20d5916decc3)
+the server hosts a socket which allows the clients to connect through then once the client connects it listens for commands sent through then executes them.
+
 DARKRATv0.1
 
 Functionality Overview:
